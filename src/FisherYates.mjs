@@ -1,5 +1,5 @@
 /**
- * Fisher–Yates shuffle algorithm
+ * Fisher-Yates shuffle algorithm
  * @param {*[]} arr
  * @returns {*[]} 
  */
