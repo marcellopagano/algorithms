@@ -3,5 +3,5 @@
 - [Euclidean](./src/Euclidean.mjs)
 - [Factorial](./src/Factorial.mjs)
 - [Fibonacci](./src/Fibonacci.mjs)
-- [Fish-Yates](./src/FishYates.mjs)
+- [Fisher-Yates](./src/Fisher-Yates.mjs)
 - [isPrime](./src/isPrime.mjs)
